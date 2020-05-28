@@ -9,3 +9,5 @@ Check style.css for the advanced CSS grid code wrote with maximum output with mi
 Check script.js for the jQuery equivalent Vanilla JS code.
 
 script.js have almost whole basic to intermediate Javasciprt example codes and as well as many jQuery functions in Vanilla Js.
+
+Check Ideal_with_bootstrap.html for ideal format for bootstrap grid with header and footer.
